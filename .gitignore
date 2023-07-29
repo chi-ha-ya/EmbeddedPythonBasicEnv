@@ -1,0 +1,4 @@
+*.pyc
+py310/Lib/
+py310/Scripts/
+py310/Lib/site-packages/
